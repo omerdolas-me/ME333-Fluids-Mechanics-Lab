@@ -21,8 +21,6 @@ The work includes both experimental analysis and computational simulations condu
 
 ## Notes
 - All reports are in **PDF format**.  
-- Prepared as part of **Yeditepe University Mechanical Engineering – ME333 Fluids Mechanics** coursework.  
-
 ---
 
 ## Author
